@@ -1,5 +1,6 @@
 {
   "name": "personal_web",
+  "homepage": "https://arfian-id.web.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
