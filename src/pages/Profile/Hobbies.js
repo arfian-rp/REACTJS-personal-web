@@ -10,7 +10,7 @@ function Hobbies(props) {
         <CardHobby img="/img/hobbies/book.jpg" title="Read Book" desc="I often read books to increase my knowledge" />
         <CardHobby img="/img/hobbies/chess.jpg" title="Play Chess" desc="I like to play chess to train my brain" />
         <CardHobby img="/img/hobbies/karate.jpg" title="Karate" desc="I practice karate for sports and martial arts" />
-        <CardHobby img="/img/hobbies/bersepeda.jpg" title="Bersepeda" desc="I prefer to ride a bicycle than a motorcycle" />
+        <CardHobby img="/img/hobbies/bersepeda.jpg" title="Bicycle" desc="I prefer to ride a bicycle than a motorcycle" />
       </div>
     </div>
   );
