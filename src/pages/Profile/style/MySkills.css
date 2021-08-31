@@ -1,0 +1,19 @@
+.container-skill {
+  width: 70%;
+  margin: auto;
+  background-color: #ddd;
+}
+
+.one > p {
+  text-align: center;
+}
+.skills {
+  text-align: right;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  color: white;
+}
+
+.color-skill {
+  background-color: #2196f3;
+}
