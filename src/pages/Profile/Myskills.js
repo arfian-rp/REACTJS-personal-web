@@ -15,7 +15,7 @@ function Myskills(props) {
       <SkillBar name="ExpressJS" value="80" />
       <SkillBar name="ReactJS" value="60" />
       <SkillBar name="RecoilJS" value="90" />
-      <SkillBar name="Mysql DB" value="70" />
+      <SkillBar name="Mysql DB" value="60" />
       <SkillBar name="Mongoose DB" value="60" />
       <SkillBar name="JQuery" value="80" />
       <SkillBar name="Bootstrap" value="70" />
