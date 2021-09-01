@@ -8,7 +8,7 @@ function About(props) {
         <h4>About Me</h4>
         <p>
           My name is Arfian Pradana from Surabaya.
-          <br />I was born in Douglas on January 3, 2007.
+          <br />I was born in Douglas on January 14, 2007.
         </p>
         <LinkToSosmed icon="bi bi-instagram me-5" url="https://instagram.com/arfian_rp__" />
         <LinkToSosmed icon="bi bi-twitter me-5" url="https://twitter.com/ArfianRp" />
