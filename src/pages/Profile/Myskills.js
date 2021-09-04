@@ -9,7 +9,7 @@ function Myskills(props) {
       <br />
       <SkillBar name="HTML" value="92" />
       <SkillBar name="Javascript & Nodejs" value="90" />
-      <SkillBar name="CSS" value="65" />
+      <SkillBar name="CSS" value="83" />
       <SkillBar name="PHP" value="85" />
       <SkillBar name="Java" value="75" />
       <SkillBar name="ExpressJS" value="80" />
